@@ -6,7 +6,7 @@ This is a React practice for using localization library "react-i18next" to trans
 
 ## Demo
 
-<img src="http://g.recordit.co/Afrm75jlio.gif" height="400" width="450">
+<img src="http://g.recordit.co/Afrm75jlio.gif" height="400" width="550">
 
 
 
