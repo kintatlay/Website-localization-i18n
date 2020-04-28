@@ -1,3 +1,16 @@
+# i18n Web Localization Translation Practice
+
+This is a React practice for using localization library "react-i18next" to translate website to different languages.
+
+[Tutorial Link](https://www.youtube.com/watch?v=cHqxgLhOl5Y&t=187s)
+
+## Demo
+
+<img src="http://g.recordit.co/Afrm75jlio.gif" height="400" width="450">
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
